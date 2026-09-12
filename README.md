@@ -8,15 +8,15 @@
 <br/><br/>
 
 <!-- Profile Views Counter Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square)
+![Profile Views](https://github.com/Rioreyblue&color=green&style=flat-square)
 
 <br/>
 
-<!-- Social & Contact Badges -->
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR-PHONE-NUMBER)
+<!-- My Socials -->
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rioreyblue)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-francisco-43a35a37a)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-E4405F?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61591801484130)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639635595848)
 
 <br/>
 
