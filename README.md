@@ -27,8 +27,23 @@
 
 ---
 
-👨‍💻 About Me
-Hi There!
+### 👨‍💻 About Me
 
+Hi there! I'm **Rey Francisco**, a **Software Engineer** passionate about building scalable, high-performance web applications using modern web technologies and clean architecture.
+
+* Delivered pixel-perfect, accessible UIs across client projects
+* Proficient in modern frontend frameworks, state management, and RESTful API integration
+* Hands-on exposure to backend tech stacks & database systems | Open to freelance & collaborations
+* Optimized for performance, SEO, and fast deployment workflows
 
 ---
+
+### 🛠 Tech Stack & Skills
+
+**Languages & Backend**  
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIS-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
