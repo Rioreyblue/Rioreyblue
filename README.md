@@ -24,3 +24,11 @@
 *Hello there. Looking for a Software Engineer who ships clean, high-performance web apps? Let's talk.*
 
 </div>
+
+---
+
+###👨‍💻 About Me
+Hi There!
+
+
+---
