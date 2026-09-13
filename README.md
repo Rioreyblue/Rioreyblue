@@ -15,7 +15,7 @@
 <!-- My Socials -->
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rioreyblue)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-francisco-43a35a37a)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61591801484130)
+[![X](https://img.shields.io/badge/X-1877F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/R_Francois5)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639635595848)
 
 <br/>
