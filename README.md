@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Text Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=25&pause=1000&color=3B82F6&center=true&vcenter=true&width=600&lines=Hi+I'm+Rey;Software+Engineer;Building+Products+That+Scale+From+0+to+1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vcenter=true&width=750&lines=Hi+I'm+Rey;Software+Engineer;Building+Products+That+Scale+From+0+to+1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,7 +15,7 @@
 <!-- My Socials -->
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rioreyblue)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-francisco-43a35a37a)
-[![X](https://img.shields.io/badge/X-1877F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/R_Francois5)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/R_Francois5)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639635595848)
 
 <br/>
@@ -29,11 +29,11 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Rey Francisco**, a **Software Engineer** passionate about building scalable, high-performance web applications using modern web technologies and clean architecture.
+Hi there! I'm **Rey Francisco**, a **Software Engineer** passionate about building scalable, high-performance web and mobile applications using modern tech stacks and clean architecture.
 
 * Delivered pixel-perfect, accessible UIs across client projects
-* Proficient in modern frontend frameworks, state management, and RESTful API integration
-* Hands-on exposure to backend tech stacks & database systems | Open to freelance & collaborations
+* Proficient in modern frontend frameworks, cross-platform mobile dev, state management, and RESTful API integration
+* Hands-on exposure to backend tech stacks, cloud services & database systems | Open to freelance & collaborations
 * Optimized for performance, SEO, and fast deployment workflows
 
 ---
@@ -41,6 +41,7 @@ Hi there! I'm **Rey Francisco**, a **Software Engineer** passionate about buildi
 ### 🛠 Tech Stack & Skills
 
 **Languages & Backend**  
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIS-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,7 +49,11 @@ Hi there! I'm **Rey Francisco**, a **Software Engineer** passionate about buildi
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases**  
+**Mobile Development**  
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Databases & BaaS**  
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
