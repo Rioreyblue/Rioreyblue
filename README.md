@@ -91,3 +91,10 @@ REST backend demonstrating asynchronous routing, database handling, and request 
 ### Contact
 
 Reach out via **[LinkedIn](https://www.linkedin.com/in/rey-francisco-43a35a37a)** or send me a message on **[WhatsApp](https://wa.me/639635595848)**.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake.svg" />
+</picture>
+
