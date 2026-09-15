@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&deleteSpeed=100&color=3B82F6&center=true&vcenter=true&width=750&lines=Hello+%F0%9F%91%8B++There+I'm+Rey+Francisco;Software+Engineer;Building+Web%2C+Desktop+%26+Mobile+Apps" alt="Typing SVG" />
 </a>
-</a>
 <br/>
 <br/>
 
@@ -55,7 +54,7 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MICROSOFT_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 **DevOps, Tools & Concepts**  
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -89,13 +88,21 @@ REST backend demonstrating asynchronous routing, database handling, and request 
 
 ---
 
-### Contact
-
-Reach out via **[LinkedIn](https://www.linkedin.com/in/rey-francisco-43a35a37a)** or send me a message on **[WhatsApp](https://wa.me/639635595848)**.
+### 📊 GitHub Stats:
+<div align = "center">
+  
+![](https://streak-stats.demolab.com/?user=rioreyblue&theme=default&hide_border=false)<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake.svg" />
 </picture>
+</div
+<br/>
 
+---
+
+### Contact
+
+Reach out via **[LinkedIn](https://www.linkedin.com/in/rey-francisco-43a35a37a)** or send me a message on **[WhatsApp](https://wa.me/639635595848)**.
