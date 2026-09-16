@@ -32,7 +32,7 @@
 I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mobile apps, web frontend, and backend APIs. I focus on writing clear, structured code and delivering reliable software.
 
 * **Mobile & Frontend:** Cross-platform mobile development with Flutter/Dart, plus responsive web interfaces.
-* **Backend & Databases:** RESTful API design using Python (FastAPI), C#, C++, and Node.js with SQL/NoSQL databases.
+* **Backend & Databases:** RESTful API design using Python (FastAPI), PHP, C#, VB.NET, C++, and Node.js with SQL/NoSQL databases.
 * **Tooling & Workflow:** Version control, automated builds, and deployment setups with Docker and GitHub Actions.
 
 ---
@@ -42,6 +42,8 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -50,16 +52,18 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases & BaaS**  
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-
 **DevOps, Tools & Concepts**  
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FILEZILLA-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/SOLID-PRINCIPLES-6B46C1?style=for-the-badge)
@@ -89,7 +93,7 @@ REST backend demonstrating asynchronous routing, database handling, and request 
 ---
 
 ### 📊 GitHub Stats:
-<div align = "center">
+<div align="center">
   
 ![](https://streak-stats.demolab.com/?user=rioreyblue&theme=default&hide_border=false)<br/>
 
@@ -98,7 +102,8 @@ REST backend demonstrating asynchronous routing, database handling, and request 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rioreyblue/rioreyblue/output/github-snake.svg" />
 </picture>
-</div
+</div>
+
 <br/>
 
 ---
