@@ -40,17 +40,17 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 ### Tech Stack & Skills
 
 **Languages & Frameworks**  
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLM_INTEGRATION-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -80,7 +80,7 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
     <td width="50%" valign="top">
       <h3>🎮 Choose Your Own Adventure</h3>
       <p>Interactive branching story game. Enter a theme, and the backend generates a full dynamic story tree via LLM integration while the UI manages player choices, state, and branching paths.</p>
-      <a href="https://github.com/Rioreyblue"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/Rioreyblue/Choose-Your-Own-Adventure"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
       <code>React</code> <code>Vite</code> <code>FastAPI</code> <code>SQLite</code> <code>LLMs</code>
     </td>
