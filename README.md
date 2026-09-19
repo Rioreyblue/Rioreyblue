@@ -78,7 +78,7 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Choose Your Own Adventure</h3>
+      <h3>🎮 Choose Your Own Adventure LLM</h3>
       <p>Interactive branching story game. Enter a theme, and the backend generates a full dynamic story tree via LLM integration while the UI manages player choices paths.</p>
       <a href="https://github.com/Rioreyblue/Choose-Your-Own-Adventure"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
