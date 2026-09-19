@@ -31,8 +31,8 @@
 
 I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mobile apps, web frontend, and backend APIs. I focus on writing clear, structured code and delivering reliable software.
 
-* **Mobile & Frontend:** Cross-platform mobile development with Flutter/Dart, plus responsive web interfaces.
-* **Backend & Databases:** RESTful API design using Python (FastAPI), PHP, C#, VB.NET, C++, and Node.js with SQL/NoSQL databases.
+* **Mobile & Frontend:** Cross-platform mobile development with Flutter/Dart, React, and Vite for responsive web interfaces.
+* **Backend & Databases:** RESTful API integration, LLM generation pipelines, Python (FastAPI), PHP, C#, VB.NET, C++, and Node.js with SQL/NoSQL databases.
 * **Tooling & Workflow:** Version control, automated builds, and deployment setups with Docker and GitHub Actions.
 
 ---
@@ -40,6 +40,9 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 ### Tech Stack & Skills
 
 **Languages & Frameworks**  
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_INTEGRATION-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -72,23 +75,40 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 
 ### Featured Projects
 
-#### 📂 [Energy Smart Remote IoT System](https://github.com/Rioreyblue/Energy-Smart-remote-IoT-System)
-Cross-platform Flutter mobile app for real-time power monitoring and remote device control over IoT protocols.
-
-* **Tech:** Flutter, Dart, Async Data Streams, Firebase
-* **Focus:** Live sensor state updates, background sync, and cross-platform UI for iOS and Android.
-
-#### 📂 [Energy Smart Admin Web](https://github.com/Rioreyblue/Energy-Smart-Admin-Web)
-Dashboard for managing system metrics, tracking real-time usage data, and controlling device permissions.
-
-* **Tech:** Flutter Web, Firebase
-* **Focus:** Auth guards, role-based access levels, and responsive dashboard charts.
-
-#### 📂 [SMedia API](https://github.com/SMedia)
-REST backend demonstrating asynchronous routing, database handling, and request validation.
-
-* **Tech:** Python, FastAPI, PostgreSQL
-* **Focus:** High-throughput endpoint handling and clean project layout.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Choose Your Own Adventure</h3>
+      <p>Interactive branching story game. Enter a theme, and the backend generates a full dynamic story tree via LLM integration while the UI manages player choices, state, and branching paths.</p>
+      <a href="https://github.com/Rioreyblue"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br/><br/>
+      <code>React</code> <code>Vite</code> <code>FastAPI</code> <code>SQLite</code> <code>LLMs</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Energy Smart Remote IoT</h3>
+      <p>Cross-platform Flutter mobile app for real-time electrical power monitoring, asynchronous data streaming, and remote device circuit control over IoT protocols.</p>
+      <a href="https://github.com/Rioreyblue/Energy-Smart-remote-IoT-System"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br/><br/>
+      <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>IoT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ Energy Smart Admin Web</h3>
+      <p>Centralized administrative web portal for real-time energy telemetry analytics, user privilege control, and role-based access management workflows.</p>
+      <a href="https://github.com/Rioreyblue/Energy-Smart-Admin-Web"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br/><br/>
+      <code>Flutter Web</code> <code>Firebase</code> <code>Analytics</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ SMedia API</h3>
+      <p>RESTful backend architecture built to demonstrate clean, optimized CRUD execution, scalable route handler design, and high-throughput HTTP request validation.</p>
+      <a href="https://github.com/SMedia"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
