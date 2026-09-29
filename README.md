@@ -34,7 +34,7 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 * **Mobile & Frontend:** Cross-platform mobile development with Flutter/Dart, React, and Vite for responsive web interfaces.
 * **Backend & Databases:** RESTful API integration, LLM generation pipelines, Python (FastAPI), PHP, C#, VB.NET, C++, and Node.js with SQL/NoSQL databases.
 * **Tooling & Workflow:** Version control, automated builds, and deployment setups with Docker and GitHub Actions.
-* 
+  
 * **Resume:** <a>https://drive.google.com/file/d/1ZI93SpcLNiSxxfpConrTcyf_W6GdKnt2/view?usp=drive_link</a>
 
 ---
