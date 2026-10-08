@@ -1,14 +1,14 @@
 <div align="center">
   
+  <!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Rioreyblue&color=blue&style=flat-square)
+
 <!-- Animated Typing Text Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&deleteSpeed=100&color=3B82F6&center=true&vcenter=true&width=750&lines=Hello+%F0%9F%91%8B++There+I'm+Rey+Francisco;Software+Engineer;Building+Web%2C+Desktop+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&deleteSpeed=100&color=orange&center=true&vcenter=true&width=750&lines=Hello+%F0%9F%91%8B++There+I'm+Rey+Francisco;Software+Engineer;Building+Web%2C+Desktop+%26+Mobile+Apps" alt="Typing SVG" />
 </a>
 <br/>
 <br/>
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Rioreyblue&color=blue&style=flat-square)
 
 <br/>
 
@@ -66,9 +66,9 @@ I'm **Rey Francisco**, a **Software Engineer** specializing in cross-platform mo
 ![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FILEZILLA-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+<!-- ![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/SOLID-PRINCIPLES-6B46C1?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/SOLID-PRINCIPLES-6B46C1?style=for-the-badge) -->
 
 ---
 
